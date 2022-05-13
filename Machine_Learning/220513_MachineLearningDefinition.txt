@@ -1,0 +1,3 @@
+What is Definition of Machine Learning?
+
+주어진 task에 대해서 Performance measure가 정해져 있을 때 이 Performance measure가 향상되는 과정.

@@ -1,3 +1,12 @@
 What is Definition of Machine Learning?
 
-주어진 task에 대해서 Performance measure가 정해져 있을 때 이 Performance measure가 향상되는 과정.
+주어진 task에 대해서 Performance measure가 정해져 있을 때 이 Performance measure가 향상되는 과정
+
+
+머신러닝을 하는 이유는?
+Prodiction for unseen data.
+처음 보는 데이터에 대한 예측을 하는 것이 우리의 목표입니다.
+이것과 관련 머신러닝의 중요한 컨셉은 
+1. train data와 test data를 나누는 것
+2. overfitting이라는 개념이 존재한다는 것
+3. generalization이라는 컨셉이 등장한다는 것
